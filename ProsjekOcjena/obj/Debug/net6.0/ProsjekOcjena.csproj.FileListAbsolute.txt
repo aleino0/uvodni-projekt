@@ -1,0 +1,5 @@
+C:\Users\ucenik\Downloads\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucenik\Downloads\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.AssemblyInfoInputs.cache
+C:\Users\ucenik\Downloads\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.AssemblyInfo.cs
+C:\Users\ucenik\Downloads\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.csproj.CoreCompileInputs.cache
